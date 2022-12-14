@@ -6,11 +6,12 @@ Enjoy It
 #More Features Comming Soon And Tell Me Which Types Of Features You Want To Add In This Library
 # Drop Your Suggestion Here => https://t.me/namastehackersgroup
 
-#Library Link => https://pypi.org/project/NamasteiG/0.0.6/
+#Library Link => https://pypi.org/project/NamasteiG/0.0.7/
 
 Features
 
 Followers Scraping Added
+
 Following Scraping Added
 
 Wait For More New Features
