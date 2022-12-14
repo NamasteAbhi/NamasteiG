@@ -10,9 +10,9 @@ Enjoy It
 
 Features
 
-Followers Scraping Added
+1 Followers Scraping Added
 
-Following Scraping Added
+2 Following Scraping Added
 
 Wait For More New Features
 
