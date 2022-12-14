@@ -10,7 +10,8 @@ Enjoy It
 
 Features
 
-1 Targeted Users Followers Scraping Added
+Followers Scraping Added
+Following Scraping Added
 
 Wait For More New Features
 
