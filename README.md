@@ -11,7 +11,7 @@ Enjoy It
 
 # Drop Your Suggestion Here => https://t.me/namastehackersgroup
 
-#Library Link => https://pypi.org/project/NamasteiG/0.0.7/
+#Library Link => https://pypi.org/project/NamasteiG/
 
 Features💯
 
