@@ -19,6 +19,8 @@ Features💯
 
 2 Following Scraping Added✅
 
+3 Follow Account Added✅
+
 Wait For More New Features
 
 Best Of Luck😎
