@@ -6,6 +6,13 @@ PassWord=''
 IG=Instagram(UserName,PassWord)
 IG.Login()
 
+
+#For Login IG Account With V2
+UserName=''
+PassWord=''
+IG=Instagram(UserName,PassWord)
+IG.LoginV2()
+
 #For Scrape Victim Followers
 VictimUserId=''
 data=IG.Scrape_Followers(VictimUserId)
